@@ -5,4 +5,12 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thiruvikraman123/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
+## String
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
+## Enumeration
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
