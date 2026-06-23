@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
 | [2937-make-three-strings-equal](https://github.com/Thiruvikraman123/leetcode-/tree/master/2937-make-three-strings-equal) |
@@ -33,6 +34,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
@@ -60,16 +62,20 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
