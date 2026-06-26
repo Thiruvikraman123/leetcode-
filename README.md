@@ -35,6 +35,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thiruvikraman123/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Binary Search
