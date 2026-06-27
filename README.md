@@ -16,6 +16,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
+| [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Thiruvikraman123/leetcode-/tree/master/2810-faulty-keyboard) |
 | [2937-make-three-strings-equal](https://github.com/Thiruvikraman123/leetcode-/tree/master/2937-make-three-strings-equal) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
@@ -71,6 +72,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
