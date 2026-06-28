@@ -24,6 +24,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3330-find-the-original-typed-string-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/3798-largest-even-number) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [2810-faulty-keyboard](https://github.com/Thiruvikraman123/leetcode-/tree/master/2810-faulty-keyboard) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Combinatorics
 |  |
@@ -101,4 +103,5 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
