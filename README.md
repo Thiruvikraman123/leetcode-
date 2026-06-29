@@ -15,6 +15,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
@@ -45,6 +46,7 @@
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thiruvikraman123/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Binary Search
