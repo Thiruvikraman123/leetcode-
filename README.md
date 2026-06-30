@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thiruvikraman123/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
@@ -47,6 +48,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thiruvikraman123/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -82,6 +84,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
