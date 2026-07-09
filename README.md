@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +101,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -130,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 ## Counting Sort
 |  |
