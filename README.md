@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thiruvikraman123/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 ## Counting Sort
 |  |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Thiruvikraman123/leetcode-/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
