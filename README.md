@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Thiruvikraman123/leetcode-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
