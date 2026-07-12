@@ -42,12 +42,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
