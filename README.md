@@ -68,6 +68,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Thiruvikraman123/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
