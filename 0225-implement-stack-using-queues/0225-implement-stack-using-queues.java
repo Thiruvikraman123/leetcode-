@@ -16,11 +16,12 @@ class MyStack {
     }
     
     public int pop() {
-         return queue.poll();
+       return queue.poll();
+        
     }
     
     public int top() {
-        return queue.peek();
+       return queue.peek();
         
     }
     
