@@ -181,6 +181,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Thiruvikraman123/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thiruvikraman123/leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Thiruvikraman123/leetcode-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Thiruvikraman123/leetcode-/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -266,4 +267,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Thiruvikraman123/leetcode-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Thiruvikraman123/leetcode-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Thiruvikraman123/leetcode-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
