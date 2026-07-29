@@ -1,23 +1,20 @@
-
-
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-        List<Integer> ans = new ArrayList<>();
-
-        // Count the frequency of each element
-        for (int i = 0; i < nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int i=0;i<nums.length;i++)
+        {
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-
-        // Store elements whose frequency is 2
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() == 2) {
-                ans.add(entry.getKey());
+        ArrayList<Integer>list=new ArrayList<>();
+        for(int num:nums)
+        {
+            if(map.get(num)>1)
+            {
+                list.add(num);
+                map.put(num,0);
             }
         }
-
-        return ans;
+        return list;
+        
     }
 }
