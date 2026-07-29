@@ -63,6 +63,7 @@
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
@@ -252,6 +253,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
 ## Binary Search Tree
