@@ -11,7 +11,6 @@ class Solution {
                 {
                     max=product;
                 }
-
             }
         }
         return max;
