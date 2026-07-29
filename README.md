@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Thiruvikraman123/leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
