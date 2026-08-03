@@ -79,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
@@ -206,6 +207,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Thiruvikraman123/leetcode-/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
@@ -277,6 +279,7 @@
 | [0100-same-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,4 +346,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
