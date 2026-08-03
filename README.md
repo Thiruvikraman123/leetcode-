@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
@@ -99,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
@@ -146,6 +148,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
