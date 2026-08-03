@@ -62,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
@@ -189,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +209,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thiruvikraman123/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thiruvikraman123/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thiruvikraman123/leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -319,4 +323,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
