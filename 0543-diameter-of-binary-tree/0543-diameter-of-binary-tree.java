@@ -26,6 +26,6 @@ class Solution {
         int left=height(root.left);
         int right=height(root.right);
         diameter=Math.max(diameter,left+right);
-        return Math.max(left,right)+1;
+        return 1+Math.max(left,right);
     }
 }
