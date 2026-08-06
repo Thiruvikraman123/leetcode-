@@ -14,6 +14,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thiruvikraman123/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thiruvikraman123/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -48,6 +49,7 @@
 | [1291-sequential-digits](https://github.com/Thiruvikraman123/leetcode-/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
