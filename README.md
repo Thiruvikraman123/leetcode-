@@ -440,4 +440,8 @@
 | ------- |
 | [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Thiruvikraman123/leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
