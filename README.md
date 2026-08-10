@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -439,6 +441,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
 ## Database
