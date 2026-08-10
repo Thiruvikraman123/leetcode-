@@ -25,6 +25,7 @@
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
+| [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/Thiruvikraman123/leetcode-/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -61,6 +62,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0594-longest-harmonious-subsequence) |
+| [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
@@ -102,6 +104,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
