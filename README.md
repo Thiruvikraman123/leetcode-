@@ -217,6 +217,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
+| [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Thiruvikraman123/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
@@ -249,6 +250,7 @@
 | [0198-house-robber](https://github.com/Thiruvikraman123/leetcode-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
@@ -348,6 +350,7 @@
 | [0260-single-number-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
