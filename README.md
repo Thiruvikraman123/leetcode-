@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -400,6 +402,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 ## Design
 |  |
