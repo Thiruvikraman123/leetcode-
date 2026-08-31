@@ -95,6 +95,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Thiruvikraman123/leetcode-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Thiruvikraman123/leetcode-/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
