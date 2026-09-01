@@ -63,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@
 | [0137-single-number-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Thiruvikraman123/leetcode-/tree/master/0198-house-robber) |
@@ -183,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
@@ -208,6 +211,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -279,6 +283,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -508,4 +513,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
