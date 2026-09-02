@@ -124,6 +124,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thiruvikraman123/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +159,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
