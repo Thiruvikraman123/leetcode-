@@ -6,7 +6,6 @@ class Solution {
         for(int i=0;i<k;i++)
         {
             temp[i]=nums[n-k+i];
-
         }
         for(int i=n-1;i>=k;i--)
         {
@@ -16,7 +15,6 @@ class Solution {
         {
             nums[i]=temp[i];
         }
-        
         
     }
 }
