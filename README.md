@@ -119,6 +119,7 @@
 | [0260-single-number-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -290,6 +292,7 @@
 | [0152-maximum-product-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Thiruvikraman123/leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thiruvikraman123/leetcode-/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
