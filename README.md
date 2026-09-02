@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiruvikraman123/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -258,6 +259,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiruvikraman123/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thiruvikraman123/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -278,6 +280,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiruvikraman123/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Thiruvikraman123/leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/0055-jump-game) |
@@ -532,4 +535,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thiruvikraman123/leetcode-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
