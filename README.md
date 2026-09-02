@@ -20,6 +20,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thiruvikraman123/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Thiruvikraman123/leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
