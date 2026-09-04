@@ -99,6 +99,7 @@
 | [0064-minimum-path-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Thiruvikraman123/leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Thiruvikraman123/leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thiruvikraman123/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Thiruvikraman123/leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
@@ -268,6 +270,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Thiruvikraman123/leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Thiruvikraman123/leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -549,4 +552,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Thiruvikraman123/leetcode-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Thiruvikraman123/leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
