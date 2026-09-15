@@ -140,6 +140,7 @@
 | [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Thiruvikraman123/leetcode-/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@
 | [0238-product-of-array-except-self](https://github.com/Thiruvikraman123/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Thiruvikraman123/leetcode-/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
