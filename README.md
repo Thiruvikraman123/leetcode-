@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Thiruvikraman123/leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@
 | [0169-majority-element](https://github.com/Thiruvikraman123/leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -124,6 +126,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Thiruvikraman123/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
@@ -170,6 +173,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -211,6 +215,7 @@
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Thiruvikraman123/leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
@@ -415,6 +420,7 @@
 | [0137-single-number-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
