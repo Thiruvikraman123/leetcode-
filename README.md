@@ -30,6 +30,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -283,6 +284,7 @@
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Thiruvikraman123/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
