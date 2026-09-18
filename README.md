@@ -38,6 +38,7 @@
 | [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Thiruvikraman123/leetcode-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0796-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
