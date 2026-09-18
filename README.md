@@ -530,6 +530,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Thiruvikraman123/leetcode-/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Thiruvikraman123/leetcode-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Thiruvikraman123/leetcode-/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/Thiruvikraman123/leetcode-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Thiruvikraman123/leetcode-/tree/master/0584-find-customer-referee) |
