@@ -42,6 +42,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thiruvikraman123/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1927-sum-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,6 +86,7 @@
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
