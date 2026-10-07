@@ -33,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Thiruvikraman123/leetcode-/tree/master/0409-longest-palindrome) |
@@ -425,6 +426,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Thiruvikraman123/leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
@@ -606,4 +608,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
