@@ -47,6 +47,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thiruvikraman123/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1796-second-largest-digit-in-a-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/1880-check-if-word-equals-summation-of-two-words) |
@@ -289,6 +290,7 @@
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Thiruvikraman123/leetcode-/tree/master/0409-longest-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thiruvikraman123/leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Thiruvikraman123/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/1927-sum-game) |
 ## Two Pointers
@@ -356,6 +358,7 @@
 | [0155-min-stack](https://github.com/Thiruvikraman123/leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Thiruvikraman123/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Thiruvikraman123/leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -613,6 +616,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
