@@ -85,6 +85,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Thiruvikraman123/leetcode-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -144,6 +145,7 @@
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thiruvikraman123/leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -188,6 +190,7 @@
 | [0278-first-bad-version](https://github.com/Thiruvikraman123/leetcode-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -231,6 +234,7 @@
 | [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -305,6 +309,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Thiruvikraman123/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
