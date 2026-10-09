@@ -185,6 +185,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thiruvikraman123/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Thiruvikraman123/leetcode-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -612,4 +613,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/0301-remove-invalid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Thiruvikraman123/leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
