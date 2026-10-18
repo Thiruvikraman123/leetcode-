@@ -16,6 +16,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Thiruvikraman123/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Thiruvikraman123/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/1927-sum-game) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
@@ -167,6 +168,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1470-shuffle-the-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Thiruvikraman123/leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thiruvikraman123/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -221,6 +223,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -265,6 +268,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -343,6 +347,7 @@
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -388,6 +393,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Thiruvikraman123/leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -429,6 +435,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Thiruvikraman123/leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,6 +468,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Thiruvikraman123/leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -486,6 +494,7 @@
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -631,4 +640,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Thiruvikraman123/leetcode-/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
