@@ -177,6 +177,7 @@
 | [1929-concatenation-of-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thiruvikraman123/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -199,6 +200,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Thiruvikraman123/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thiruvikraman123/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
