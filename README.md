@@ -165,6 +165,7 @@
 | [0724-find-pivot-index](https://github.com/Thiruvikraman123/leetcode-/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1470-shuffle-the-array) |
@@ -415,6 +416,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 | [0226-invert-binary-tree](https://github.com/Thiruvikraman123/leetcode-/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Thiruvikraman123/leetcode-/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -511,6 +514,7 @@
 | [0064-minimum-path-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -646,6 +650,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
