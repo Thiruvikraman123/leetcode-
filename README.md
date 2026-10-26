@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Thiruvikraman123/leetcode-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -40,6 +41,7 @@
 | [0344-reverse-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Thiruvikraman123/leetcode-/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Thiruvikraman123/leetcode-/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0648-replace-words) |
@@ -213,6 +215,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Thiruvikraman123/leetcode-/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1929-concatenation-of-array) |
