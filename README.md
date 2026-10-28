@@ -187,6 +187,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Thiruvikraman123/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3921-score-validator](https://github.com/Thiruvikraman123/leetcode-/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
@@ -355,6 +356,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Thiruvikraman123/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Thiruvikraman123/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -469,6 +471,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Thiruvikraman123/leetcode-/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Thiruvikraman123/leetcode-/tree/master/0397-integer-replacement) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Thiruvikraman123/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Thiruvikraman123/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
