@@ -172,6 +172,7 @@
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -208,6 +209,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -262,6 +264,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Thiruvikraman123/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Thiruvikraman123/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thiruvikraman123/leetcode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Thiruvikraman123/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
@@ -337,6 +340,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Thiruvikraman123/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Thiruvikraman123/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Thiruvikraman123/leetcode-/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thiruvikraman123/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
