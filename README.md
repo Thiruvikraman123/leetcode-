@@ -21,6 +21,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/1927-sum-game) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Thiruvikraman123/leetcode-/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Thiruvikraman123/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
