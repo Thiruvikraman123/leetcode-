@@ -189,6 +189,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thiruvikraman123/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Thiruvikraman123/leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thiruvikraman123/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Thiruvikraman123/leetcode-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Thiruvikraman123/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -389,6 +390,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Thiruvikraman123/leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thiruvikraman123/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -524,6 +526,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Thiruvikraman123/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thiruvikraman123/leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thiruvikraman123/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -544,6 +547,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Thiruvikraman123/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Thiruvikraman123/leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -557,6 +561,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Thiruvikraman123/leetcode-/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -675,4 +680,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thiruvikraman123/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Thiruvikraman123/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
