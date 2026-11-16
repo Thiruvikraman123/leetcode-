@@ -62,6 +62,7 @@
 | [1927-sum-game](https://github.com/Thiruvikraman123/leetcode-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thiruvikraman123/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/Thiruvikraman123/leetcode-/tree/master/2325-decode-the-message) |
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
 | [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
@@ -229,6 +230,7 @@
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thiruvikraman123/leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/Thiruvikraman123/leetcode-/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
