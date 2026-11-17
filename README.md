@@ -175,6 +175,7 @@
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/1470-shuffle-the-array) |
@@ -213,6 +214,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Thiruvikraman123/leetcode-/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Thiruvikraman123/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Thiruvikraman123/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -537,6 +539,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Thiruvikraman123/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Thiruvikraman123/leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thiruvikraman123/leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Thiruvikraman123/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
