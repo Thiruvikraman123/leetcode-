@@ -68,6 +68,7 @@
 | [2437-number-of-valid-clock-times](https://github.com/Thiruvikraman123/leetcode-/tree/master/2437-number-of-valid-clock-times) |
 | [2785-sort-vowels-in-a-string](https://github.com/Thiruvikraman123/leetcode-/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Thiruvikraman123/leetcode-/tree/master/2810-faulty-keyboard) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Thiruvikraman123/leetcode-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2937-make-three-strings-equal](https://github.com/Thiruvikraman123/leetcode-/tree/master/2937-make-three-strings-equal) |
 | [3280-convert-date-to-binary](https://github.com/Thiruvikraman123/leetcode-/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/Thiruvikraman123/leetcode-/tree/master/3330-find-the-original-typed-string-i) |
